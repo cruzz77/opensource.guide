@@ -43,7 +43,31 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 <p>✨🏁🏁🏁✨</p>
 
-<p>Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralineada][9], [@dmleong][10], [@ericholscher][11], [@gr2m][12], [@janl][13], [@jessfraz][14], [@joshsimmons][15], [@kfogel][16], [@kytrinyx][17], [@lee-dohm][18], [@mikeal][19], [@mikemcquaid][20], [@nathansobo][21], [@nruff][22], [@nsqe][23], [@orta][24], [@parkr][25], [@shazow][26], [@steveklabnik][27],** and **[@wooorm][28]** for lending their valuable input and expertise leading up to the initial release, and to **[@sophshep][29]** and **[@jeejkang][30]** for designing and illustrating the guides.</p>
+Thanks to 
+ - [@aitchabee][5],
+ - [@benbalter][6],
+ - [@brettcannon][7],
+ - [@caabernathy][8],
+ -  [@coralineada][9],
+ -  [@dmleong][10],
+ -   [@ericholscher][11],
+ -   [@gr2m][12],
+ -    [@janl][13],
+ -    [@jessfraz][14],
+ -    [@joshsimmons][15],
+ -    [@kfogel][16],
+ - [@kytrinyx][17],
+ -  [@lee-dohm][18],
+ -  [@mikeal][19],
+ -  [@mikemcquaid][20],
+ -   [@nathansobo][21],
+ -    [@nruff][22], [@nsqe][23],
+ - [@orta][24],
+ - [@parkr][25],
+ - [@shazow][26],
+ -  [@steveklabnik][27],
+ - [@wooorm][28]
+   for lending their valuable input and expertise leading up to the initial release, and to **[@sophshep][29]** and **[@jeejkang][30]** for designing and illustrating the guides.
 
 
 
